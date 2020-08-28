@@ -5,6 +5,10 @@ body {
     background-size: cover;
     -o-background-size: cover;
   }
+#imgsize {
+  width: 200px;
+  height: 200px;
+}
   .fa {
     padding: 10px;
     font-size: 30px;
