@@ -57,7 +57,7 @@ This web application has three webpages. These have different types of informati
 
 - Footer with social media buttons
 
-![picture](images/Readme/footerSocialMedia.png)
+![picture](images/Readme/socialMedia.png)
 
 - Form
 
