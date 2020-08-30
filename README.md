@@ -61,7 +61,7 @@ This web application has three webpages. These have different types of informati
 
 - Form
 
-![picture](images/Readme/ContactForm.png)
+![picture](images/Readme/contactForm.png)
 
 - Grid System for images
 
